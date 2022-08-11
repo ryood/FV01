@@ -1,0 +1,29 @@
+RPi pico Micro Python
+
+
+PicoをBOOTSELボタンを押しながらパソコンにUSBケーブルを繋げる。
+ストレージとして認識される→エクスプローラーが開く
+
+MicroPythonファームウェア
+https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
+
+UF2ファイルをダウンロード
+
+Picoのドライブにコピー
+
+Thonny
+
+Thonyをダウンロードしてインストール
+https://thonny.org/
+
+ツール options インタプリタ で
+デバイスに MicorPython (Raspberry Pi Pico)を選択
+
+実行 Run Current script
+
+実行プログラム
+main.py ThonyからSave As...
+Raspberry Pi Pico
+main.py
+自動実行される
+
