@@ -1,0 +1,26 @@
+"Source:","C:\Users\nerdf\OneDrive\デスクトップ\PicoRomWriter\PicoRomWriter.kicad_sch"
+"Date:","2022/08/18 7:37:40"
+"Tool:","Eeschema (6.0.5)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","6"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","J1","I2C","Connector_Generic:Conn_01x03","Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical","~"
+"","","J2","PWR_OUT","Connector_Generic:Conn_01x02","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","~"
+"","","R1","4.7k","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","R2","4.7k","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"","","SW1","RESET","Switch:SW_Push","Button_Switch_THT:SW_PUSH_6mm_H8.5mm","~"
+"","","U1","Pico","MCU_RaspberryPi_and_Boards:Pico","MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","1","J1","I2C","Connector_Generic:Conn_01x03","Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical","~"
+"2","1","J2","PWR_OUT","Connector_Generic:Conn_01x02","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","~"
+"3","2","R1, R2","4.7k","Device:R","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~"
+"4","1","SW1","RESET","Switch:SW_Push","Button_Switch_THT:SW_PUSH_6mm_H8.5mm","~"
+"5","1","U1","Pico","MCU_RaspberryPi_and_Boards:Pico","MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH",""
