@@ -27,3 +27,7 @@ Raspberry Pi Pico
 main.py
 自動実行される
 
+実行 - disconnect
+ThonnyからpicoにPythonスクリプトを書き込むときは
+実行 - stop/restart backend
+でpicoに接続
